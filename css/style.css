@@ -1,0 +1,16 @@
+
+.box {
+    width: 50%;
+    float: center;
+    border: 3px solid #149D72;
+    background-color:#E6E0D6;
+    color:#212234;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+
+.text {
+    font-size: 30px;
+    color: #212234;
+}
